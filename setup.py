@@ -26,7 +26,7 @@ setuptools.setup(
     python_requires=">=3.8",
     package_data={  },
     install_requires=[
-        "pytorch",
+        "torch",
     ],
     license="MIT"
 )
